@@ -1,7 +1,7 @@
 {
   "maintenance_mode": {
     "enabled": true,
-    "message": "",
+    "message": "Testing maintenance mode!",
     "estimated_end": null
   },
   "force_update": {
@@ -11,4 +11,3 @@
     "update_url": "https://github.com/Sufenue2/ROID/releases/latest"
   }
 }
-
