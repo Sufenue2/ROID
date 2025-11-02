@@ -1,10 +1,10 @@
 {
   "version": "1.0.4",
-  "last_updated": "2025-11-02T06:39:57.353Z",
+  "last_updated": "2025-11-02T07:28:13.283Z",
   "maintenance_mode": {
     "enabled": false,
     "message": "We are currently performing maintenance to improve your experience. Please check back soon!",
-    "started_at": "2025-11-02T05:53",
+    "started_at": "2025-11-02T07:27",
     "estimated_end": null,
     "allow_bypass": false,
     "bypass_key": null
@@ -12,20 +12,20 @@
   "scheduled_maintenance": {
     "upcoming": false,
     "scheduled_date": "2025-11-02",
-    "scheduled_time": "22:53",
+    "scheduled_time": "00:27",
     "duration_hours": 2,
     "warning_message": "Scheduled maintenance on [DATE] at [TIME] for approximately [DURATION] hours.",
     "show_warning_days_before": 3
   },
   "force_update": {
-    "enabled": false,
-    "minimum_version": "1.0.5",
+    "enabled": true,
+    "minimum_version": "V1",
     "message": "A new version is required to use this app. Please download the latest version.",
     "update_url": "https://github.com/Sufenue/Roblox-ID-Program/releases/latest"
   },
   "app_status": {
     "operational": true,
     "status_message": "All systems operational",
-    "last_check": "2025-11-02T06:39:57.353Z"
+    "last_check": "2025-11-02T07:28:13.283Z"
   }
 }
