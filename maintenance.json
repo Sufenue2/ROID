@@ -1,32 +1,13 @@
 {
-  "version": "1.0.0",
-  "last_updated": "2025-11-02T03:21:00Z",
   "maintenance_mode": {
     "enabled": false,
-    "message": "ROID is currently undergoing scheduled maintenance. We'll be back shortly!",
-    "started_at": null,
-    "estimated_end": null,
-    "allow_bypass": false,
-    "bypass_key": null
-  },
-  "scheduled_maintenance": {
-    "upcoming": false,
-    "scheduled_date": null,
-    "scheduled_time": null,
-    "duration_hours": 0,
-    "warning_message": "Scheduled maintenance on [DATE] at [TIME]. The app will be unavailable for approximately [DURATION] hours.",
-    "show_warning_days_before": 3
+    "message": "",
+    "estimated_end": null
   },
   "force_update": {
     "enabled": false,
-    "minimum_version": "2.5.0",
-    "message": "A critical update is required. Please update to continue using ROID.",
+    "minimum_version": "1.0.4",
+    "message": "",
     "update_url": "https://github.com/Sufenue2/ROID/releases/latest"
-  },
-  "app_status": {
-    "operational": true,
-    "status_message": "All systems operational",
-    "last_check": "2025-11-02T03:21:00Z"
   }
 }
-
