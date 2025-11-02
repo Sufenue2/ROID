@@ -1,8 +1,8 @@
 {
   "version": "1.0.4",
-  "last_updated": "2025-11-02T20:17:09.984Z",
+  "last_updated": "2025-11-02T20:21:33.385Z",
   "maintenance_mode": {
-    "enabled": false,
+    "enabled": true,
     "message": "We are currently performing maintenance to improve your experience. Please check back soon!",
     "started_at": "2025-11-02T19:55",
     "estimated_end": null,
@@ -26,6 +26,6 @@
   "app_status": {
     "operational": true,
     "status_message": "All systems operational",
-    "last_check": "2025-11-02T20:17:09.984Z"
+    "last_check": "2025-11-02T20:21:33.385Z"
   }
 }
