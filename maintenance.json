@@ -21,7 +21,7 @@
     "enabled": false,
     "minimum_version": "2.5.0",
     "message": "A critical update is required. Please update to continue using ROID.",
-    "update_url": "https://github.com/YOUR_USERNAME/roid-program/releases/latest"
+    "update_url": "https://github.com/Sufenue2/ROID/releases/latest"
   },
   "app_status": {
     "operational": true,
@@ -29,3 +29,4 @@
     "last_check": "2025-11-02T03:21:00Z"
   }
 }
+
