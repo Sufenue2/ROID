@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-11-02T03:32:00Z",
+  "announcements": [
+    {
+      "id": "welcome-001",
+      "type": "info",
+      "title": "Welcome to ROID!",
+      "message": "Thanks for using ROID - Your Roblox ID Program. Check for updates regularly!",
+      "date": "2025-11-02",
+      "priority": "low",
+      "dismissible": true,
+      "action": null
+    },
+    {
+      "id": "update-002",
+      "type": "success",
+      "title": "New IDs Available!",
+      "message": "97 audio IDs are now available in the database. Enjoy!",
+      "date": "2025-11-02",
+      "priority": "medium",
+      "dismissible": true,
+      "action": {
+        "label": "Check Updates",
+        "type": "check_updates"
+      }
+    }
+  ],
+  "metadata": {
+    "total_announcements": 2,
+    "active_announcements": 2,
+    "fetch_interval_hours": 6
+  }
+}
