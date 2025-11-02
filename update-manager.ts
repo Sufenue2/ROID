@@ -44,10 +44,10 @@ interface AudioIDUpdate {
 }
 
 class UpdateManager {
-  private readonly GITHUB_USERNAME = 'YOUR_USERNAME'; // Replace with your GitHub username
-  private readonly REPO_NAME = 'roid-program'; // Replace with your repo name
-  private readonly ANNOUNCEMENTS_URL = `https://raw.githubusercontent.com/${this.GITHUB_USERNAME}/${this.REPO_NAME}/main/announcements.json`;
-  private readonly AUDIO_IDS_URL = `https://raw.githubusercontent.com/${this.GITHUB_USERNAME}/${this.REPO_NAME}/main/audio-ids.json`;
+  private readonly GITHUB_USERNAME = 'Sufenue'; // Replace with your GitHub username
+  private readonly REPO_NAME = 'ROID'; // Replace with your repo name
+  private readonly ANNOUNCEMENTS_URL = `https://raw.githubusercontent.com/Sufenue2/ROID/refs/heads/main/announcements.json`;
+  private readonly AUDIO_IDS_URL = `https://raw.githubusercontent.com/Sufenue2/ROID/refs/heads/main/audio-ids.json`;
   
   private currentVersion: string = '2.4.0'; // Current local version
   private lastChecked: Date | null = null;
@@ -356,3 +356,4 @@ export default UpdateManager;
 // const updateManager = new UpdateManager();
 // updateManager.startAutoUpdateChecker();
 // updateManager.startAnnouncementFetcher();
+
